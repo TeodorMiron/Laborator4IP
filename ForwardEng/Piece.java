@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.Vector;
-
 public class Piece {
 
   public String color;
@@ -12,7 +10,6 @@ public class Piece {
 
   public String name;
 
-    public Vector  myBoard;
 
   public String getColor() {
   return color;
